@@ -1,0 +1,1 @@
+## summe of array throw lamda with using map, filter und reduce methodes
